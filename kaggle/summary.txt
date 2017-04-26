@@ -1,0 +1,9 @@
+Bulat and Igor
+0.71951
+WE used linear regression algorithm, because training linear model is much faster.  Moreove they are simple and require minimum memory to implement and is well understood. The best params of this algorithms were chosen as a result by the grid search that computed them according to the best accuracy result which we set as a certain value for passing the threshold.
+C': 1.7000000000000006,
+  'penalty': 'l1',
+  'random_state': 42,
+  'solver': 'liblinear',
+  'verbose': 1,
+  'warm_start': True}
